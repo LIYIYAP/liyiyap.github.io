@@ -5,6 +5,8 @@
 	padding: 0;
 	scroll-behavior: smooth;
 	list-style: none;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Inter', sans-serif;
 }
 
 .container{
