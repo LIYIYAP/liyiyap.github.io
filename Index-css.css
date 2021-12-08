@@ -4,6 +4,9 @@
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	font-family: 'Bebas Neue', cursive;
+	font-family: 'Inter', sans-serif;
+	font-family: 'Playfair Display', serif;
 }
 
 .container {
