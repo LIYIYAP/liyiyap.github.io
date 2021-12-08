@@ -28,7 +28,7 @@
 	margin-top: 0;
 	margin-right: 30px;
 	margin-bottom: 0;
-	font-family: bebas-neue;
+	font-family: 'Bebas Neue', cursive;
 	font-style: normal;
 	font-weight: 400;
 	letter-spacing: 1px;
@@ -57,7 +57,7 @@
 }
 .left-profile-content-title{
 	margin-right: 120px;
-	font-family: playfair-display;
+	font-family: 'Playfair Display', serif;
 	font-weight: 600;
 	letter-spacing: 4px;
 	font-size: 40px;
@@ -93,7 +93,7 @@
 }
 .left-profile-content-combine li a span{
 	display:none;
-	font-family: inter;	
+	font-family: 'Inter', sans-serif;
 	font-weight: 300px;
 	letter-spacing: 2px;
 }
