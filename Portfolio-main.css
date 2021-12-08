@@ -6,6 +6,7 @@
 	scroll-behavior: smooth;
 	list-style: none;
 	font-family: 'Bebas Neue', cursive;
+	font-family: 'Playfair Display', serif;
 	
 }
 
@@ -62,7 +63,7 @@
 	float: right;
 	margin-right: 90px;
 	color: #454343;
-	font-family: playfair-display;
+	font-family: Playfair Display;
 	font-style: normal;
 	font-weight: 400;
 	letter-spacing: 7px;
